@@ -132,4 +132,5 @@ SystemEngineer --> AIEngine
 
 # Diagrama
 
-<img width="482" height="544" alt="ia" src="https://github.com/user-attachments/assets/3f3ab2d1-1581-4317-8bf6-aaf8b1d057a6" />
+<img width="1191" height="1330" alt="diagrama-de-classe" src="https://github.com/user-attachments/assets/1e6f47fa-235e-4a3c-b0b0-59583456d60c" />
+
