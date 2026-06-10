@@ -123,10 +123,13 @@ AIEngine --> Alert
 
 Mission --> Report
 
-
-<img width="1191" height="1330" alt="diagrama-de-classe" src="https://github.com/user-attachments/assets/60dd587f-c012-467c-aab8-6f3c834f42bb" />
-
-
 MissionOperator --> Alert
 
 SystemEngineer --> AIEngine
+
+---
+
+
+# Diagrama
+
+<img width="482" height="544" alt="ia" src="https://github.com/user-attachments/assets/3f3ab2d1-1581-4317-8bf6-aaf8b1d057a6" />
