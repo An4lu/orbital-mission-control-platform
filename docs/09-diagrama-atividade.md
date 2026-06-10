@@ -1,65 +1,9 @@
 # Fluxo 1 - Recebimento de Alerta Crítico
 
-Início
-
-↓
-
-Receber Evento
-
-↓
-
-Validar Evento
-
-↓
-
-Evento Crítico?
-
-├── Não
-│   ↓
-│ Registrar Evento
-│   ↓
-│ Fim
-
-└── Sim
-    ↓
-Gerar Alerta
-    ↓
-Notificar Operador
-    ↓
-Abrir Incidente
-    ↓
-Registrar Log
-    ↓
-Fim
+<img width="513" height="613" alt="activity-alert" src="https://github.com/user-attachments/assets/cb47cb18-5239-4c61-aa3e-89b56eb42a1d" />
 
 ---
 
 # Fluxo 2 - Predição de Falhas
 
-Início
-
-↓
-
-Coletar Histórico
-
-↓
-
-Executar IA
-
-↓
-
-Risco > 80% ?
-
-├── Não
-│   ↓
-│ Encerrar Processo
-
-└── Sim
-    ↓
-Gerar Alerta Preventivo
-    ↓
-Registrar Recomendação
-    ↓
-Notificar Engenheiro
-    ↓
-Fim
+<img width="532" height="667" alt="activity-prediction" src="https://github.com/user-attachments/assets/9e58c853-fc30-414e-ace3-b2faac2c2069" />
